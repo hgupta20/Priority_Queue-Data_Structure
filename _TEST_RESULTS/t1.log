@@ -1,0 +1,27 @@
+running program t1
+~~~~ BEGIN TEST SUITE.  DESC: TRIVIAL pq_capacity AND pq_size TESTS ~~~~~
+  ###  TEST 1:   5.00 points
+          DESC: CORRECTNESS-ONLY-TEST-capacity+size
+     Returned Value      : 1
+     Correct Return Value: 1
+     PASSED
+  ###  END TEST 1
+
+     Score So Far For This Test Suite: 5.00 / 5.00
+
+
+ #####   TESTS_COMPLETED ######  
+
+
+    FINAL RESULTS OF TESTS:  
+
+
+        AUTOSCORED:    5.00 / 5.00
+
+
+          AUTO TESTS PASSED:  1
+          AUTO TESTS FAILED:  0
+~~~~ END TESTS OF TRIVIAL pq_capacity AND pq_size TESTS ~~~~~
+~~~~     AUTO__SCORE:      5.00 / 5.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

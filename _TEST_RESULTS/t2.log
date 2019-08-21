@@ -1,0 +1,35 @@
+running program t2
+~~~~ BEGIN TEST SUITE.  DESC: N inserts + N delete_top ops; CORRECTNESS-ONLY ~~~~~
+  ###  TEST 1:   5.00 points
+          DESC: CORRECTNESS-ONLY-TEST-MIN-AT-TOP
+     Returned Value      : 1
+     Correct Return Value: 1
+     PASSED
+  ###  END TEST 1
+
+     Score So Far For This Test Suite: 5.00 / 5.00
+  ###  TEST 2:   5.00 points
+          DESC: CORRECTNESS-ONLY-TEST-B-MAX-AT-TOP
+     Returned Value      : 1
+     Correct Return Value: 1
+     PASSED
+  ###  END TEST 2
+
+     Score So Far For This Test Suite: 10.00 / 10.00
+
+
+ #####   TESTS_COMPLETED ######  
+
+
+    FINAL RESULTS OF TESTS:  
+
+
+        AUTOSCORED:    10.00 / 10.00
+
+
+          AUTO TESTS PASSED:  2
+          AUTO TESTS FAILED:  0
+~~~~ END TESTS OF N inserts + N delete_top ops; CORRECTNESS-ONLY ~~~~~
+~~~~     AUTO__SCORE:      10.00 / 10.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

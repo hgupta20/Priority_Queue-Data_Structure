@@ -1,0 +1,188 @@
+running program t8
+~~~~ BEGIN TEST SUITE.  DESC: 2nd MISHMASH of randomized pq_ operations ~~~~~
+  ###  TEST 1:   5.00 points
+          DESC: CORRECTNESS-ONLY-TEST-MIN-AT-TOP
+Error: Id is not being used
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is already in use
+Error: Id is already in use
+Error: Id is already in use
+Error: Id is already in use
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is already in use
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is already in use
+Error: ID is not in use.
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is already in use
+Error: ID is not in use.
+Error: Id is not being used
+Error: Id is not being used
+Error: ID is not in use.
+Error: Id is not being used
+ MISHMASH TEST: 400 pq_ operations performed; 0 failed (zero is good!)
+     Returned Value      : 1
+     Correct Return Value: 1
+     PASSED
+  ###  END TEST 1
+
+     Score So Far For This Test Suite: 5.00 / 5.00
+
+
+ #####   TESTS_COMPLETED ######  
+
+
+    FINAL RESULTS OF TESTS:  
+
+
+        AUTOSCORED:    5.00 / 5.00
+
+
+          AUTO TESTS PASSED:  1
+          AUTO TESTS FAILED:  0
+~~~~ END TESTS OF 2nd MISHMASH of randomized pq_ operations ~~~~~
+~~~~     AUTO__SCORE:      5.00 / 5.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

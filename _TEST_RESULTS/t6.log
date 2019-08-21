@@ -1,0 +1,35 @@
+running program t6
+~~~~ BEGIN TEST SUITE.  DESC: N inserts + 2 peek_top tests; CORRECTNESS-ONLY ~~~~~
+  ###  TEST 1:   2.50 points
+          DESC: CORRECTNESS-ONLY-TEST-MIN-AT-TOP
+     Returned Value      : 1
+     Correct Return Value: 1
+     PASSED
+  ###  END TEST 1
+
+     Score So Far For This Test Suite: 2.50 / 2.50
+  ###  TEST 2:   2.50 points
+          DESC: CORRECTNESS-ONLY-TEST-MAX-AT-TOP
+     Returned Value      : 1
+     Correct Return Value: 1
+     PASSED
+  ###  END TEST 2
+
+     Score So Far For This Test Suite: 5.00 / 5.00
+
+
+ #####   TESTS_COMPLETED ######  
+
+
+    FINAL RESULTS OF TESTS:  
+
+
+        AUTOSCORED:    5.00 / 5.00
+
+
+          AUTO TESTS PASSED:  2
+          AUTO TESTS FAILED:  0
+~~~~ END TESTS OF N inserts + 2 peek_top tests; CORRECTNESS-ONLY ~~~~~
+~~~~     AUTO__SCORE:      5.00 / 5.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

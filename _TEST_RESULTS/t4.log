@@ -1,0 +1,27 @@
+running program t4
+~~~~ BEGIN TEST SUITE.  DESC: N inserts + N get_priority ops; CORRECTNESS-ONLY ~~~~~
+  ###  TEST 1:   5.00 points
+          DESC: CORRECTNESS-ONLY-TEST
+     Returned Value      : 1
+     Correct Return Value: 1
+     PASSED
+  ###  END TEST 1
+
+     Score So Far For This Test Suite: 5.00 / 5.00
+
+
+ #####   TESTS_COMPLETED ######  
+
+
+    FINAL RESULTS OF TESTS:  
+
+
+        AUTOSCORED:    5.00 / 5.00
+
+
+          AUTO TESTS PASSED:  1
+          AUTO TESTS FAILED:  0
+~~~~ END TESTS OF N inserts + N get_priority ops; CORRECTNESS-ONLY ~~~~~
+~~~~     AUTO__SCORE:      5.00 / 5.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

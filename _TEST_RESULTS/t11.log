@@ -1,0 +1,26 @@
+running program t11
+~~~~ BEGIN TEST SUITE.  DESC: RUNTIME test of N inserts + N delete_top operations ~~~~~
+  ###  TEST 1 (TIMED):  "test(n, 1)"; 15.00 points
+  DESCRIPTION: RUNTIME-TEST: insert+delete
+     MAX RATIO T(2N)/T(N):       2.500000
+     OBSERVED RATIO T(2N)/T(N):  2.044444
+     Score So Far For Function: 15.00 / 15.00
+  ###  END TEST 1
+
+
+
+ #####   TESTS_COMPLETED ######  
+
+
+    FINAL RESULTS OF TESTS:  
+
+
+        AUTOSCORED:    15.00 / 15.00
+
+
+          AUTO TESTS PASSED:  1
+          AUTO TESTS FAILED:  0
+~~~~ END TESTS OF RUNTIME test of N inserts + N delete_top operations ~~~~~
+~~~~     AUTO__SCORE:      15.00 / 15.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
